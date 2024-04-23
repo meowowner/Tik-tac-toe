@@ -1,4 +1,4 @@
-# studia
+# Tik-tak-toe
 
 ## zadanie git
 
