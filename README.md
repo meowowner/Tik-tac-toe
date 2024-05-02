@@ -1,10 +1,10 @@
 # Tik-tak-toe
 
-## zadanie git
+## zajęcia 6 git
 
-### How to use
+### How to install
 
 git clone https://github.com/meowowner/Tik-tac-toe/ \
 cd Tik-tac-toe \
-g++ file -o myoutput.out \
-./ myoutput.out
+g++ -std=c++20 tic_tac_toe.cpp -o myoutput.out \
+./myoutput.out
